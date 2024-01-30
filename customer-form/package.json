@@ -1,6 +1,8 @@
 {
   "name": "customer-form",
   "version": "0.1.0",
+  "author": "Santhosh Kumar",
+  "description": "Customer Form Application that stores the customer data in local Storage",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.17.0",
